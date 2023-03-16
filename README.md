@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykishan97&label=Profile%20views&color=0e75b6&style=flat" alt="jaykishan97" /> </p>
 
-- 🌱 I’m currently learning **React.js, node.js, MongoDB,**
+- 🌱 I’m currently learning: **React.js, node.js, MongoDB,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jaykishan97?tab=repositories](https://github.com/Jaykishan97?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Jaykishan97?tab=repositories](https://github.com/Jaykishan97?tab=repositories)
 
-- 💬 Ask me about **Java, mySQL, PHP, C#, Git, Gitlab**
+- 💬 Ask me about: **Java, mySQL, PHP, C#, Git, Gitlab**
 
-- 📫 How to reach me **jaykishan.presingu@gmail.com**
+- 📫 How to reach me: **jaykishan.presingu@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3Lo87Vu](http://bit.ly/3Lo87Vu)
+- 📄 Know about my experiences: [http://bit.ly/3Lo87Vu](http://bit.ly/3Lo87Vu)
 
-- ⚡ Fun fact **Did you know that the name "Jayakishan" is a combination of two Sanskrit words "Jaya," meaning victory, and "Kishan," meaning Lord Krishna? In Hindu mythology, Lord Krishna is often depicted as a victorious and mischievous figure, which may be a fitting coincidence for someone with the name Jayakishan.**
+- ⚡ Fun fact: **Did you know that the name "Jayakishan" is a combination of two Sanskrit words "Jaya," meaning victory, and "Kishan," meaning Lord Krishna? In Hindu mythology, Lord Krishna is often depicted as a victorious and mischievous figure, which may be a fitting coincidence for someone with the name Jayakishan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
