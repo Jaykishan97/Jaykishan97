@@ -40,14 +40,12 @@
 
 ----
 ### My Statistics:
-<br/>
 <p align="left">
   
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=jaykishan97&show_icons=true&theme=chartreuse-dark&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykishan97&theme=chartreuse-dark&hide_border=true" />
 
 </p>
-<br>
 
 -----
 #### Credits: [Jayakishan Presingu](https://github.com/Jaykishan97)
