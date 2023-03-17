@@ -13,7 +13,7 @@
 
 <br>
 
-- I'm a skilled computer science professional with a degree from the University of North Texas.
+- I'm a skilled computer science professional with a Master's degree from the University of North Texas.
 - 2 years of Java development experience.
 - Seeking a challenging role in technology with a passion for continuous learning and growth. 
 - I’m currently open for a new job opportunity, this is **[my resume](https://github.com/Jaykishan97)**
