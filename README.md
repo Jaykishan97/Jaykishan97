@@ -13,9 +13,9 @@
 <br>
 
 - I'm a skilled computer science professional with a Master's degree from the University of North Texas.
-- 2 years of Java development experience.
+- 5 years of Full Stack Development Experience.
 - Seeking a challenging role in technology with a passion for continuous learning and growth. 
-- I’m currently open for a new job opportunity, this is **[my resume](https://bit.ly/3Lo87Vu)**
+- I’m currently open for a new job opportunity, this is **[my resume](https://docs.google.com/document/d/1YQFtBqqrnTHTmEwUgj9L4qLOzzLP0Y2n/edit?usp=drive_link&ouid=105881927885864421170&rtpof=true&sd=true)**
 - How to reach me: **jaykishan.presingu@gmail.com**
 - All of my projects are available at: **[Git Reps](https://github.com/Jaykishan97?tab=repositories)**
 
